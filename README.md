@@ -1,2 +1,1 @@
-# Aztec-Flat
-Aztec theme inspired from Flatabulous
+# Aztec Flat
